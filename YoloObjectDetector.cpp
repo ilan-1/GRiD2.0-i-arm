@@ -1,10 +1,3 @@
-/*
- * YoloObjectDetector.cpp
- *
- *  Created on: Dec 19, 2016
- *      Author: Marko Bjelonic
- *   Institute: ETH Zurich, Robotic Systems Lab
- */
 
 // yolo object detector
 #include "darknet_ros/YoloObjectDetector.hpp"
