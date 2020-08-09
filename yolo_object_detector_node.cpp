@@ -1,11 +1,3 @@
-/*
- * yolo_obstacle_detector_node.cpp
- *
- *  Created on: Dec 19, 2016
- *      Author: Marko Bjelonic
- *   Institute: ETH Zurich, Robotic Systems Lab
- */
-
 #include <ros/ros.h>
 #include <darknet_ros/YoloObjectDetector.hpp>
 
